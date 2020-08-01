@@ -3,3 +3,7 @@ my_name = "Eric"
 
 super_cool = "Something"
 another_thing = "This is great"
+
+#adding stuff on the branch
+
+#looking for a pull request
