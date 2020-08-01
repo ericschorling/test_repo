@@ -1,1 +1,5 @@
 my_name = "Eric"
+#added some cool variables
+
+super_cool = "Something"
+another_thing = "This is great"
